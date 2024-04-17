@@ -1,4 +1,4 @@
-A simple crewai example.
+### A simple crewai example.
 
 Crew AI used agents to do work for you.
 We define tasks and assign the agents to the tasks.
@@ -15,7 +15,7 @@ In the example I do not define any tools for the agents to use to go out and do 
 
 Example output from the agents:
 
-In recent months, several emerging cybersecurity vulnerabilities have emerged, posing significant risks to organizations and individuals alike. Among these vulnerabilities are CVE-2021-34527 (Log4Shell/LogJam), CVE-2021-44228 (Krab-OID), CVE-2021-36934 (NinjaLake), and CVE-2021-31267. Each of these vulnerabilities requires immediate attention and action to mitigate their potential impact.
+>In recent months, several emerging cybersecurity vulnerabilities have emerged, posing significant risks to organizations and individuals alike. Among these vulnerabilities are CVE-2021-34527 (Log4Shell/LogJam), CVE-2021-44228 (Krab-OID), CVE-2021-36934 (NinjaLake), and CVE-2021-31267. Each of these vulnerabilities requires immediate attention and action to mitigate their potential impact.
 
 CVE-2021-34527, also known as Log4Shell or LogJam, is a remote code execution vulnerability that affects the widely used Log4j logging library. Since its discovery in December 2021, this critical vulnerability has been exploited in various attacks, making it one of the most significant cybersecurity threats in recent years. To address this issue, organizations must ensure their systems are updated with the latest patches and monitor their logs for any suspicious activity.
 
