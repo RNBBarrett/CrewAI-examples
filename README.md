@@ -1,7 +1,9 @@
 ### A simple crewai example.
 
 Crew AI used agents to do work for you.
+
 We define tasks and assign the agents to the tasks.
+
 The agents may also use tools to assist in their tasks.
 
 This simple example we setup two agents:
