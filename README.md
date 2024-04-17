@@ -4,9 +4,9 @@ This code uses a simple example of employing two AI agents and a local llm to do
 
 In simple terms:
 
--Crew AI used agents to do work for you.
--We define tasks and assign those tasks to our agents.
--The agents may also use tools to assist in their tasks.
+*Crew AI used agents to do work for you.
+*We define tasks and assign those tasks to our agents.
+*The agents may also use tools to assist in their tasks.
 
 This simple example we setup two agents:
 
