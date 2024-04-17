@@ -41,7 +41,7 @@ Also note:
 I grab the present date using:
 today = date.today()
 
-# Textual month, day and year	
+Textual month, day and year	
 current_date = today.strftime("%B %d, %Y")
 
 I supply this date to the task so that the task is looking for news from the present date.
