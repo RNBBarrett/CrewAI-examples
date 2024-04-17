@@ -15,7 +15,7 @@ A security writer.
 
 I used openhermes as my llm running via ollama on my local machine, so no cost to the user.
 
-In the example I do not define any tools for the agents to use to go out and do searches on the web, so in this simple example the agents will rely on the latest knowledge in the llm.
+In the example I do not define any tools for the agents to use, so the agents will rely solely on the latest knowledge captured in the llm.
 
 Example output from the agents:
 
