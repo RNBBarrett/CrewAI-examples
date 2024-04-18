@@ -51,7 +51,6 @@ Example output from the agents with search:
 >In this issue of our cybersecurity newsletter, we will dive into the most critical vulnerabilities disclosed and addressed in the latest patch releases from Oracle and Microsoft. Let's begin with the Oracle Critical Patch Update for April 2024.
 
 >CVE-2024-2152: Microsoft Windows Remote Code Execution Vulnerability
->---------------------------------------------------------------
 
 >The second critical vulnerability is CVE-2024-2152, which affects multiple Microsoft Windows components. An attacker could exploit this remote code execution vulnerability by sending a specially crafted packet to a targeted system over the network. Once successfully exploited, an attacker gains full control of the affected machine and can install malware or perform further actions at their leisure.
 
